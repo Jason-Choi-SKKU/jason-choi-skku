@@ -7,12 +7,12 @@ My research interest is Human-Computer(AI, Data) Interaction, Information Visual
 If you are interested in my work, please visit my [English website](me.jasonchoi.dev) and feel free to contact me via [e-mail](jasonchoi3@g.skku.edu). 
 
 
-## Contact Me!
-| | |
+| Contact | Me! |
 |-|-|
 | Phone  | (+82) 10-2056-9216 |
-| Blog | [jasonchoi.dev](https://jasonchoi.dev) (KR) |
 | Email | [jasonchoi3@g.skku.edu](mailto:jasonchoi3@g.skku.edu) |
-| Facebook | [facebook.com/ndr0idchoi](https://www.facebook.com/jasonchoi.dev/)
-| Twitter  | [@jasonchoi_dev](https://twitter.com/jasonchoi_dev) (EN) |
+| Dev Blog | [jasonchoi.dev](https://jasonchoi.dev) (KR) |
+| Facebook | [facebook.com/ndr0idchoi](https://www.facebook.com/jasonchoi.dev/) (KR) | 
 | Instagram  | [@restaurant_schema](https://instagram.com/restaurant_schema) (KR) |
+| Twitter  | [@jasonchoi_dev](https://twitter.com/jasonchoi_dev) (EN) |
+
