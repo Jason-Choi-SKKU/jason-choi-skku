@@ -1,7 +1,5 @@
 # Jason Choi
 
-## Introduction
-
 Hi! I'm junior Computer Science researcher! 
 
 I'm undergraduate student of [Sungkyunkwan University](skku.edu), Department of [Computer Education](comedu.skku.edu) and [Software](cs.skku.edu). I'm working for [SKKU IDCLab](idclab.skku.edu) since 2021.05 advised by [Jaemin Jo](github.com/e-). 
