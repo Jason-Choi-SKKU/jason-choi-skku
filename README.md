@@ -1,10 +1,10 @@
 ## Hi! I'm junior Computer Science researcher! 
 
-I'm undergraduate student of [Sungkyunkwan University](skku.edu), Department of [Computer Education](comedu.skku.edu) and [Software](cs.skku.edu). I'm working for [SKKU IDCLab](idclab.skku.edu) since 2021.05 advised by [Jaemin Jo](github.com/e-). 
+I'm undergraduate student of [Sungkyunkwan University](https://skku.edu), Department of [Computer Education](https://comedu.skku.edu) and [Software](https://cs.skku.edu). I'm working for [SKKU IDCLab](https://idclab.skku.edu) since 2021.05 advised by [Jaemin Jo](https://github.com/e-). 
 
 My research interest is Human-Computer(AI, Data) Interaction, Information Visualization, Deep Learning. and I'm also interested in modern web development technology.
 
-If you are interested in my work, please visit my [English website](me.jasonchoi.dev) and feel free to contact me via [e-mail](jasonchoi3@g.skku.edu). 
+If you are interested in my work, please visit my [CV website](https://me.jasonchoi.dev) and feel free to contact me via [e-mail](mailto://jasonchoi3@g.skku.edu). 
 
 
 | Contact | Me! |
