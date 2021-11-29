@@ -10,17 +10,11 @@ If you are interested in my work, please visit my [English website](me.jasonchoi
 
 
 ## Contact Me!
-|  |  |
-| ---: | --- |
+| | |
+|-|-|
 | Phone  | (+82) 10-2056-9216 |
 | Blog | [jasonchoi.dev](https://jasonchoi.dev) (KR) |
 | Email | [jasonchoi3@g.skku.edu](mailto:jasonchoi3@g.skku.edu) |
 | Facebook | [facebook.com/ndr0idchoi](https://www.facebook.com/jasonchoi.dev/)
 | Twitter  | [@jasonchoi_dev](https://twitter.com/jasonchoi_dev) (EN) |
 | Instagram  | [@restaurant_schema](https://instagram.com/restaurant_schema) (KR) |
-
-<style>
-    table {
-        width: 100%;
-    }
-</style>
