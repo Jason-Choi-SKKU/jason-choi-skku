@@ -1,6 +1,8 @@
 ## Hi! I'm junior Computer Science researcher! 
 
-I'm undergraduate student of [Sungkyunkwan University](https://skku.edu), Department of [Computer Education](https://comedu.skku.edu) and [Software](https://cs.skku.edu). I'm working for [SKKU IDCLab](https://idclab.skku.edu) since 2021.05 advised by [Jaemin Jo](https://github.com/e-). 
+Hi! I'm junior Computer Science researcher! 
+
+I'm undergraduate student of [Sungkyunkwan University](skku.edu), Department of [Computer Education](comedu.skku.edu) and [Software](cs.skku.edu). I'm working for [SKKU IDCLab](idclab.skku.edu) since 2021.05 advised by [Jaemin Jo](github.com/e-). 
 
 My research interest is Human-Computer(AI, Data) Interaction, Information Visualization, Deep Learning. and I'm also interested in modern web development technology.
 
